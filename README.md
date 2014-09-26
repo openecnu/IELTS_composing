@@ -10,8 +10,9 @@ process
 1. multi-editing in a team synchronously
   1. eduFLOSS first edit eduFLOSS first push
   2. eduFLOSS edit last eduFLOSS push first
-    * result
-      repo最后的结果来自最后commit的人。如果出现红色警告继续push的话两者的记录都会保存，所以建议出现警告时继续commit。
+  
+  * result
+    repo最后的结果来自最后commit的人。如果出现红色警告继续push的话两者的记录都会保存，所以建议出现警告时继续commit。
 1. fork to personal accounts
 1. make several branches
 1. edit the repositories in personal account 
